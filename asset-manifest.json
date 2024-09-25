@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Junior-Frontend-Developer_SmartIT/static/css/main.6b9b37b6.css",
+    "main.js": "/Junior-Frontend-Developer_SmartIT/static/js/main.f30c6a38.js",
+    "index.html": "/Junior-Frontend-Developer_SmartIT/index.html",
+    "main.6b9b37b6.css.map": "/Junior-Frontend-Developer_SmartIT/static/css/main.6b9b37b6.css.map",
+    "main.f30c6a38.js.map": "/Junior-Frontend-Developer_SmartIT/static/js/main.f30c6a38.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b9b37b6.css",
+    "static/js/main.f30c6a38.js"
+  ]
+}
