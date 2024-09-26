@@ -4,6 +4,7 @@ import { Provider } from "react-redux";
 import { store } from "./store"; // Make sure you are importing the store correctly
 import App from "./App";
 import "./styles.css";
+import "tailwindcss/tailwind.css";
 
 // Find the root element
 const container = document.getElementById("root");

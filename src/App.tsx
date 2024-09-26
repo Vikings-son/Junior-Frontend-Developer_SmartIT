@@ -13,7 +13,7 @@ const App: React.FC = () => {
 
   return (
     <div>
-      <h1>User Management</h1>
+      <h1 className="text-4xl">User Management</h1>
       <SearchFilters />
       <UserTable />
     </div>
